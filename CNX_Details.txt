@@ -1,0 +1,55 @@
+Employee ID	First Name	Last Name	Email	Username/SSO ID	Temporary Password
+102008968,101932406	Mohammad	Murtuja	mohammad.murtuja@concentrix.com	mohammad.murtuja	FDM22#(!euv51!]}
+
+
+m1@cMFMJm5@cMFMJ
+376090260
+
+102008968
+OMSD-VS0228A14B
+I have issues connecting to VM.Though the youbikey is connected still I am getting "connect a smart card" message
+
+Ok, go to your start menu and search “manage user certificates”.  Once you have that up, go to personal > certificates.  Delete any certificates that have your user id, then unplug and reinsert your key.  Then try logging in again.
+
+1. Download the Yubikey Minidriver from the following link https://www.yubico.com/support/download/smart-card-drivers-tools/
+2. Select Support
+3. Select Downloads
+4. Scroll down to Smart card drivers and tools
+5. Click on downloads
+6. Scroll down to YubiKey Smart Card Minidriver (Windows)
+7. Select YubiKey Minidriver for 64-bit systems – Windows Installer
+8. Run the install file
+9. Click Next
+10. Click Install  11. Click Yes  12. Click Finish
+
+The citrix team has found that the issue you are experiencing can be corrected by resetting your citrix configuration - here is there message:  “It may be worth having the user reset their Citrix Workspace configuration. If they have the Citrix Workspace app, there should be an option on the tray icon to reset Citrix Workspace. If they do not, they may have to go into their Citrix related data in their \AppData\Local\Citrix folder and delete everything there and then have them log in to z.vpn to reset everything.”
+
+Could not start app.There was a problem contacting "UP"
+
+
+Sunday, November 5th the mainframe environment will incur approximately a 75 minute outage starting at 1:00 am Central Daylight Time (CDT) and will resume operation at 1:15 am Central Standard Time (CST). All mainframe applications including TCS, CMTS, and IMS will be unavailable, as well as other systems and web applications that depend upon the mainframe for data.
+
+
+[2:12 PM] Rasagnya Vyasabhattu
+For IT/HR Related ticketing tool - https://solvnow-dwp.onbmc.com/dwp/app/#/page/mtaslejl
+For Catalyst related policies - https://cnxmail.sharepoint.com/sites/OneCatalystNew
+For Concentrix related policies or Training Sessions - https://mycnx.concentrix.com/sites/core
+Coupa - COUPA URL - https://concentrix.coupahost.com/user/home
+In case U require access to Coupa for any reimbursement submission - coupa@concentrix.com
+ADP / Ramco – For Payslip access
+OneCatalyst - for Catalyst related policies - https://cnxmail.sharepoint.com/sites/OneCatalystNew
+ 
+Few interesting wellness platforms definitely to note are-
+Safespace
+MWPs | Internal Support (
+EAP (regionalized)
+Keep Appy
+Calm Room
+Calendar
+Antarmanh – this is something that most of you have attended a session in person. Please note below
+ 
+Get Unlimited 24*7 Consultation & Counselling Services (Telephonic) :
+ 
+Contact your Counsellor Now! National Tollfree no: 07314855525
+https://mycnx.concentrix.com/sites/core/b/Pages/a/Wellnest-ov.aspx is Access to resources that help optimize Wellness for you and your team!
+Sign In
